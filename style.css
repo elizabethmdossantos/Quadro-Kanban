@@ -66,7 +66,7 @@ header{
 .kanban-column{
     display: flex;
     flex-direction: column;
-    height: 100%;
+    height: 80%;
     border-radius: 12px;
     padding: 12px;
     position: relative;
@@ -180,3 +180,4 @@ header{
     }
 
 }
+
